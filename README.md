@@ -1,4 +1,4 @@
-### Hi there, I'm Gulkaran Singh 👋
+# Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a Canadian Highschool Student and Developer!
 
 - 🍁 I just launched a free online platform to learn the Ontario Computer Science Curriculm: [YRCodes][course]!
