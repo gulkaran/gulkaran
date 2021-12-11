@@ -7,6 +7,8 @@
 - 🎯 2021 Goals: Get post-secondary education in the Computer Science field!
 - ⚡ Check out some of my other [work][repos]!
 
+<br />
+
 ### 🔗 Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,7 +29,6 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][]
 
 <br />
-<br />
 
 ---
 
@@ -45,7 +46,4 @@
 [repos]: https://github.com/gulkaran?tab=repositories
 [youtube]: https://www.youtube.com/channel/UCbc177lD4Z2Rx_C8CTGVa2g
 [instagram]: https://www.instagram.com/gulkaran.s/
-
-<!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
-
 [python]: https://www.youtube.com/watch?v=z6O2MfstMHc&list=PLXx0S2Y00GvLJ0Q8ZsI40ISU0Hevkg9bP
