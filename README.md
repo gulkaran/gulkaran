@@ -1,15 +1,11 @@
 ### Hi there, I'm Gulkaran Singh 👋
-
-[![Website](https://yrcodes.ca)](YRCodes)
-[![Website](https://bytekode.org)](ByteKode Hackathon)
-
 ## 🎓 I'm a Canadian Highschool Student and Developer!
 
 - 🍁 I just launched a free online platform to learn the Ontario Computer Science Curriculm: [YRCodes][course]!
 - 📲 I’m currently learning Java and developing in Swift!
 
 - 🎯 2021 Goals: Get post-secondary education in the Computer Science field!
-- ⚡ Check out some of my other work! [Repositories][repos]!
+- ⚡ Check out some of my other [work][repos]!
 
 ### 🔗 Connect with me:
 
