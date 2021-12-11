@@ -7,8 +7,6 @@
 - ⚡ Check out some of my other [work][repos]!
 - 📫 Contact me on instagram [@gulkaran.s][instagram] or email me at gulkaransingh.m@gmail.com
 
-<br />
-
 ### 🔗 Connect with me:
 
 <a href="https://instagram.com/gulkaran.s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
