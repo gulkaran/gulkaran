@@ -46,7 +46,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: https://yrcodes.ca
-[repo]: https://github.com/gulkaran?tab=repositories
+[repos]: https://github.com/gulkaran?tab=repositories
 [youtube]: https://www.youtube.com/channel/UCbc177lD4Z2Rx_C8CTGVa2g
 [instagram]: https://instagram.com/gulkaran.s
 
