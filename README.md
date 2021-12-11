@@ -1,7 +1,8 @@
 # Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a Canadian Highschool Student and Developer!
 
-- 🍁 I just launched a free online platform to learn the Ontario Computer Science Curriculm: [YRCodes][course]!
+- 🍁 I just launched a free online platform to learn the Ontario Computer Science Curriculm: [YRCodes][yrcodes]!
+- 💪 Hosting a second hackathon event December 27th: [Bytekode Hackathon][hackathon]!
 - 📲 I’m currently learning Java and developing in Swift!
 - 🎯 2021 Goals: Get post-secondary education in the Computer Science field!
 - ⚡ Check out some of my other [work][repos]!
@@ -33,8 +34,8 @@
 
 ---
 
-[website]: https://codeSTACKr.com
-[course]: https://yrcodes.ca
+[hackathon]: https://bytekode.org
+[yrcodes]: https://yrcodes.ca
 [repos]: https://github.com/gulkaran?tab=repositories
 [youtube]: https://www.youtube.com/channel/UCbc177lD4Z2Rx_C8CTGVa2g
 [instagram]: https://www.instagram.com/gulkaran.s/
