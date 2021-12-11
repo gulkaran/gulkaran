@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -44,7 +44,7 @@
 [course]: https://yrcodes.ca
 [repos]: https://github.com/gulkaran?tab=repositories
 [youtube]: https://www.youtube.com/channel/UCbc177lD4Z2Rx_C8CTGVa2g
-[instagram]: https://instagram.com/gulkaran.s
+[instagram]: https://www.instagram.com/gulkaran.s/
 
 <!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
 
