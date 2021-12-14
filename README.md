@@ -1,7 +1,7 @@
 # Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a Canadian Highschool Student and Developer!
 
-- 🍁 I just launched a free online platform to learn the Ontario Computer Science Curriculm: [YRCodes][yrcodes]!
+- 🍁 I just launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculm: [YRCodes][yrcodes]!
 - 💪 Hosting a second hackathon event December 27th: [Bytekode Hackathon][hackathon]!
 - 📲 I’m currently learning Java and developing in Swift!
 - 🎯 2021 Goals: Get post-secondary education in the Computer Science field!
