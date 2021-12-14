@@ -1,12 +1,12 @@
 # Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a Canadian Highschool Student and Developer!
 
-- 🍁 I just launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculm: [YRCodes][yrcodes]!
-- 💪 Hosting a second hackathon event December 27th: [Bytekode Hackathon][hackathon]!
+- 🍁 I just launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: [YRCodes][yrcodes]!
+- 💪 Hosting a second hackathon event January 9th: [Bytekode Hackathon][hackathon]!
 - 📲 I’m currently learning Java and developing in Swift!
 - 🎯 2021 Goals: Get post-secondary education in the Computer Science field!
 - ⚡ Check out some of my other [work][repos]!
-- 📫 Contact me on instagram [@gulkaran.s][instagram] or email me at gulkaransingh.m@gmail.com
+- 📫 Contact me on Instagram [@gulkaran.s][instagram] or email me at gulkaransingh.m@gmail.com
 
 ### 🔗 Connect with me:
 
