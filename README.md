@@ -4,7 +4,7 @@
 - 🍁 I just launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: [YRCodes][yrcodes]!
 - 💪 Hosting a second hackathon event January 14th: [Bytekode Hackathon][hackathon]!
 - 📲 I’m currently learning Java and developing in Swift!
-- 🎯 2021 Goals: Get post-secondary education in the Computer Science field!
+- 🎯 2022 Goals: Get post-secondary education in the Computer Science field!
 - ⚡ Check out some of my other [work][repos]!
 - 📫 Contact me on Instagram [@gulkaran.s][instagram] or email me at gulkaransingh.m@gmail.com
 
