@@ -1,6 +1,7 @@
 # Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a McMaster University Student and Developer!
 
+- 🖥️ Check out my [personal portfolio](gulkaran.ca) I recently built using Next.js, Three.js, Framer Motion, & MUI! 
 - 📲 I’m currently learning React JS and developing in Python with Tensorflow!
 - 🎯 2023 Goals: Continue learning full-stack development through project-based learning!
 - 🍁 I launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: [YRCodes][yrcodes]!
