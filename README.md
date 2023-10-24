@@ -1,11 +1,11 @@
 # Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a McMaster University Student and Developer!
 
-- 🖥️ Check out my [personal portfolio](gulkaran.ca) I recently built using Next.js, Three.js, Framer Motion, & MUI! 
+- 🖥️ Check out my [personal portfolio][website] I recently built using Next.js, Three.js, Framer Motion, & MUI! 
 - 📲 I’m currently learning React JS and developing in Python with Tensorflow!
 - 🎯 2023 Goals: Continue learning full-stack development through project-based learning!
-- 🍁 I launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: [YRCodes][yrcodes]!
-- 💪 Hosted a second hackathon event January 14th: [Bytekode Hackathon][hackathon]!
+- 🍁 I launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: YRCodes!
+- 💪 Hosted a second hackathon event January 14th: Bytekode Hackathon!
 - ⚡ Check out some of my other [work][repos]!
 - 📫 Contact me on [Linkedin](linkedin.com/in/gulkaran/) or email me at gulkaransingh.m@gmail.com
 
@@ -30,8 +30,7 @@
 
 ---
 
-[hackathon]: https://bytekode.org
-[yrcodes]: https://yrcodes.ca
+[website]: https://gulkaran.ca
 [repos]: https://github.com/gulkaran?tab=repositories
 [youtube]: https://www.youtube.com/channel/UCbc177lD4Z2Rx_C8CTGVa2g
 [python]: https://www.youtube.com/watch?v=z6O2MfstMHc&list=PLXx0S2Y00GvLJ0Q8ZsI40ISU0Hevkg9bP
