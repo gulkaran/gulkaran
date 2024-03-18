@@ -3,7 +3,7 @@
 
 - 🖥️ Check out my [personal portfolio][website] I recently built using Next.js, Three.js, Framer Motion, & MUI! 
 - 📲 I’m currently learning React JS and developing in Python with Tensorflow!
-- 🎯 2023 Goals: Continue learning full-stack development through project-based learning!
+- 🎯 2024 Goals: Expand my knowledge in AWS and DevOps!
 - 🍁 I launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: YRCodes!
 - 💪 Hosted a second hackathon event January 14th: Bytekode Hackathon!
 - ⚡ Check out some of my other [work][repos]!
