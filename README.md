@@ -1,11 +1,9 @@
 # Hi there, I'm Gulkaran Singh 👋
 ## 🎓 I'm a McMaster University Student and Developer!
 
-- 🖥️ Check out my [personal portfolio][website] I recently built using Next.js, Three.js, Framer Motion, & MUI! 
-- 📲 I’m currently learning React JS and developing in Python with Tensorflow!
-- 🎯 2024 Goals: Expand my knowledge in AWS and DevOps!
-- 🍁 I launched a free online platform to learn the Ontario ICS3U-ICS4U Curriculum: YRCodes!
-- 💪 Hosted a second hackathon event January 14th: Bytekode Hackathon!
+- 🖥️ Check out my [personal portfolio][website] I recently built using Next.js, Three.js, & Shadcn UI
+- 📲 I’m currently learning Ruby and developing in Python with Tensorflow!
+- 🎯 2025 Goals: Expand my knowledge in AWS and cloud infrastructure!
 - ⚡ Check out some of my other [work][repos]!
 - 📫 Contact me on [Linkedin](linkedin.com/in/gulkaran/) or email me at gulkaransingh.m@gmail.com
 
